@@ -1,3 +1,6 @@
 pandas
 Crawldata
-datasets/
+datasets
+.api_key
+api_call.py
+*.csv
